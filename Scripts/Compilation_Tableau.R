@@ -1,4 +1,4 @@
-##Script qui compile tous les .Rds dans un grand .csv pour ensuite traitement dans un tableau .ods
+##Script qui compile tous les .Rds et .csv dans un grand .csv pour ensuite traitement dans un tableau .ods
 
 #Les paramètres à régler sont : racine: racine de la compilation du tableau
 #spectral : si l'analyse est dans le domaine spectral ou non
