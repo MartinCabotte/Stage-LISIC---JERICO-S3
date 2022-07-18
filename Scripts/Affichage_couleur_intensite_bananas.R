@@ -1,4 +1,4 @@
-##Script - !!!NOT A FUNCTION!!!
+##Script - !!!NOT A FONCTION!!!
 
 plot(data,col=c("white"))
 plot(data,col=clustering$y.pl,pch=as.character(clustering$y.pl))
