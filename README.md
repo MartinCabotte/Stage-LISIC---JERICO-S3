@@ -4,14 +4,14 @@
 
 Several datasets were used to perform analysis. Datasets are listed in the *~/Dataset/* folder. Datasets are as follows :
 
-![Aggregation](./Images/Aggregation.png)
-![Coumpound](./Images/Coumpound.png)
-![Serpentin](./Images/serpentins.png)
-![Carre](./Images/Carre.png)
-![DS3](./Images/DS3.png)
-![AmbiguousCercle](/Images/AmbiguousCercle.png)
-![Bananas](/Images/Bananas.png)
-![Simulated](/Images/Simulated.png)
+<img src="./Images/Aggregation.png" alt="Aggregation" width="200"/>
+<img src="./Images/Coumpound.png" alt="Coumpound" width="200"/>
+<img src="./Images/Serpentins.png" alt="Serpentins" width="200"/>
+<img src="./Images/Carre.png" alt="Carre" width="200"/>
+<img src="./Images/DS3.png" alt="DS3" width="200"/>
+<img src="./Images/AmbiguousCercle.png" alt="AmbiguousCercle" width="200"/>
+<img src="./Images/Simulated.png" alt="Simulated" width="200"/>
+<img src="./Images/Bananas.png" alt="Bananas" width="200"/>
 
 The function that generate the dataset number 6 (AmbiguousCercle) is located in the *~/Dataset/* folder and is nammed *dataset.R*
 
