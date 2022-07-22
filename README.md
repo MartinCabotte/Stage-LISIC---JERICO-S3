@@ -4,14 +4,14 @@
 
 Several datasets were used to perform analysis. Datasets are listed in the *~/Dataset/* folder. Datasets are as follows :
 
-<img src="./Images/Aggregation.png" alt="Aggregation" width="200"/>
-<img src="./Images/Coumpound.png" alt="Coumpound" width="200"/>
-<img src="./Images/Serpentins.png" alt="Serpentins" width="200"/>
-<img src="./Images/Carre.png" alt="Carre" width="200"/>
-<img src="./Images/DS3.png" alt="DS3" width="200"/>
-<img src="./Images/AmbiguousCercle.png" alt="AmbiguousCercle" width="200"/>
-<img src="./Images/Simulated.png" alt="Simulated" width="200"/>
-<img src="./Images/Bananas.png" alt="Bananas" width="200"/>
+<img src="./Images/Aggregation.png" alt="Aggregation" width="300"/>
+<img src="./Images/Coumpound.png" alt="Coumpound" width="300"/>
+<img src="./Images/Serpentins.png" alt="Serpentins" width="300"/>
+<img src="./Images/Carre.png" alt="Carre" width="300"/>
+<img src="./Images/DS3.png" alt="DS3" width="300"/>
+<img src="./Images/AmbiguousCercle.png" alt="AmbiguousCercle" width="300"/>
+<img src="./Images/Simulated.png" alt="Simulated" width="300"/>
+<img src="./Images/Bananas.png" alt="Bananas" width="300"/>
 
 The function that generate the dataset number 6 (AmbiguousCercle) is located in the *~/Dataset/* folder and is nammed *dataset.R*
 
