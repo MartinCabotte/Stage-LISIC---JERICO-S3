@@ -11,11 +11,7 @@ Several datasets were used to perform analysis. Datasets are listed in the *~/Da
 <img src="./Images/DS3.png" alt="DS3" width="300"/>
 <img src="./Images/AmbiguousCercle.png" alt="AmbiguousCercle" width="300"/>
 <img src="./Images/Simulated.png" alt="Simulated" width="300"/>
-
-<figure>
 <img src="./Images/Bananas.png" alt="Bananas" width="300"/>
-<figcaption css="text-align: center;">Bananas dataset</figcaption>
-</figure>
 
 The function that generate the dataset number 6 (AmbiguousCercle) is located in the *~/Dataset/* folder and is nammed *dataset.R*
 
