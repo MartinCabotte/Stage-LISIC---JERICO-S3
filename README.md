@@ -1,12 +1,24 @@
-# clusteringEvidentiel
+# Fuzzy and Evidential contribution to multilevel clustering
+
+## Data used to perform analysis
+
+Several datasets were used to perform analysis. Datasets are listed in the *~/Dataset/* folder. Datasets are as follows :
+
+![Aggregation](./Images/Aggregation.png)
+![Coumpound](./Images/Coumpound.png)
+![Serpentin](./Images/serpentins.png)
+![Carre](./Images/Carre.png)
+![DS3](./Images/DS3.png)
+![AmbiguousCercle](/Images/AmbiguousCercle.png)
+![Bananas](/Images/Bananas.png)
+![Simulated](/Images/Simulated.png)
+
+The function that generate the dataset number 6 (AmbiguousCercle) is located in the *~/Dataset/* folder and is nammed *dataset.R*
 
 
+## Analysis of algorithms and criteria
 
-## Getting started
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Clustering labels are listed in the *~/Results/* folder. Each label file contain 10 results. *.Rds* files are also available in order to import mean values of the clustering.
 
 ## Add your files
 
