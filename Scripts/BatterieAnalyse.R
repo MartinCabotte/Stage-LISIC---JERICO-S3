@@ -11,10 +11,10 @@
 ##############################################
 
 ##Root of the project
-root <- "~/Stage/Tests/AnalysisFiles/"
+root <- "~/Stage/FinalStage/clusteringevidentiel/"
 
 ##Directory where results are saved
-saveDirectory <- "~/Stage/Tests/AnalyseValidation/"
+saveDirectory <- "~/Stage/FinalTest/"
 
 ##Number of iteration of the code to perform
 iteration = 10
@@ -39,7 +39,7 @@ algorithmeHierarchique <- c()
 algorithmeNonIteratif <- c()
 nbcriteria <- c()
 
-algorithme = list("mbscan")
+algorithme = list()
 algorithmeHierarchique = list()
 algorithmeNonIteratif = list()
 
@@ -144,18 +144,6 @@ source(file = "extract.relevant.values.R")
 source(file = "write.labels.R")
 source(file = "init.quality.criterion.R")
 source(file = "Kbrut.R")
-source(file = "compute_cmeans_fusion.R")
-source(file = "removeNoise.R")
-source(file = "clusterToClusterMembership.R")
-source(file = "removeNoiseDistance.R")
-source(file = "compute.root.tree.R")
-source(file = "unfold.tree.R")
-source(file = "assign.tree.R")
-source(file = "spanningTree.R")
-source(file = "buildBranch.R")
-source(file = "assignNoise.R")
-source(file = "compute.point.membership.R")
-source(file = "mbscan.R")
 source(file = "CompilationTableau.R")
 
 df <- load.dataframe(nameDf,root)
